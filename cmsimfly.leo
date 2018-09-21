@@ -17,7 +17,7 @@
 <v t="leo.20180702142719.1"><vh>@button start wsgi</vh></v>
 <v t="leo.20180702142849.1"><vh>@button stop wsgi</vh></v>
 </v>
-<v t="leo.20180702145555.1"><vh>http start/stop</vh>
+<v t="leo.20180702145555.1" a="E"><vh>http start/stop</vh>
 <v t="leo.20180702145442.1"><vh>@button start http.server</vh></v>
 <v t="leo.20180702145458.1"><vh>@button stop http.server</vh></v>
 </v>
