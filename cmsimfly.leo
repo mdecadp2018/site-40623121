@@ -19,6 +19,8 @@
 </v>
 <v t="leo.20180702145555.1" a="E"><vh>http start/stop</vh>
 <v t="leo.20180702145442.1"><vh>@button start http.server</vh></v>
+<v t="leo.20180921100604.1"><vh>newHeadline</vh></v>
+<v t="leo.20180921100614.1"><vh>newHeadline</vh></v>
 <v t="leo.20180702145458.1"><vh>@button stop http.server</vh></v>
 </v>
 <v t="leo.20180703102027.1"><vh>@edit README.md</vh></v>
@@ -2758,5 +2760,141 @@ bug 180726</t>
 
 
 </t>
+<t tx="leo.20180921100604.1">@color
+@language python
+
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- #
+from __future__ import unicode_literals
+
+AUTHOR = 'KMOL'
+SITENAME = '機械設計工程系 2018 Fall 分組網誌'
+# 不要用文章所在目錄作為類別
+USE_FOLDER_AS_CATEGORY = False
+
+#PATH = 'markdown'
+
+#OUTPUT_PATH = 'blog'
+
+TIMEZONE = 'Asia/Taipei'
+
+DEFAULT_LANG = 'en'
+
+# Feed generation is usually not desired when developing
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+
+# Blogroll
+LINKS = (('Nature', 'https://www.nature.com/'),
+        ('Science', 'http://www.sciencemag.org/'),
+        ('Sam Harris', 'https://www.samharris.org/'),
+        ('Andreas Wagner', 'http://www.ieu.uzh.ch/wagner/'),
+        ('American Scientist', 'https://www.americanscientist.org/'),
+        ('Scientific American', 'https://www.scientificamerican.com/'),)
+
+# Social widget
+#SOCIAL = (('You can add links in your config file', '#'),('Another social link', '#'),)
+
+DEFAULT_PAGINATION = 10
+
+# Uncomment following line if you want document-relative URLs when developing
+#RELATIVE_URLS = True
+
+# 必須絕對目錄或相對於設定檔案所在目錄
+PLUGIN_PATHS = ['plugin']
+PLUGINS = ['summary', 'tipue_search', 'sitemap', 'neighbors']
+
+# for sitemap plugin
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
+
+# search is for Tipue search
+DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'search'))
+
+# for pelican-bootstrap3 theme settings
+#TAG_CLOUD_MAX_ITEMS = 50
+DISPLAY_CATEGORIES_ON_SIDEBAR = True
+DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
+DISPLAY_TAGS_ON_SIDEBAR = True
+DISPLAY_TAGS_INLINE = True
+TAGS_URL = "tags.html"
+CATEGORIES_URL = "categories.html"
+#MENUITEMS = [('About', '/blog/pages/about/index.html')]
+#SHOW_ARTICLE_AUTHOR = True
+
+#MENUITEMS = [('Home', '/'), ('Archives', '/archives.html'), ('Search', '/search.html')]
+</t>
+<t tx="leo.20180921100614.1">@color
+@language python
+
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- #
+from __future__ import unicode_literals
+
+# This file is only used if you use `make publish` or
+# explicitly specify it as your config file.
+
+import os
+import sys
+sys.path.append(os.curdir)
+from pelicanconf import *
+
+# 因為 publishconf.py 在 pelicanconf.py 之後, 因此若兩處有相同變數的設定, 將以較後讀入的 publishconf.py 中的設定為主.
+
+# 將所有靜態 html 檔案移到 blog 子目錄
+SITEURL = 'https://mdecourse.github.io/site-40623121/blog'
+# 此設定用於將資料送到 gh-pages, 因此使用絕對 URL 設定
+RELATIVE_URLS = False
+
+THEME = 'theme/attila'
+BOOTSTRAP_THEME = 'united'
+COLOR_SCHEME_CSS = 'tomorrow_night.css'
+
+
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+
+DELETE_OUTPUT_DIRECTORY = True
+
+# Following items are often useful when publishing
+
+DISQUS_SITENAME = "kmolab-github"
+DISQUS_DISPLAY_COUNTS = False
+#GOOGLE_ANALYTICS = ""
+
+# 設定網誌以 md 檔案建立的 file system date 為準, 無需自行設定
+DEFAULT_DATE = 'fs'
+
+# 遠端的 code hightlight
+#MD_EXTENSIONS = ['fenced_code', 'extra', 'codehilite(linenums=True)']
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+    },
+    'output_format': 'html5',
+}
+
+# 若要依照日期存檔呼叫
+#ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+#ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+PAGE_URL = 'pages/{slug}/'
+PAGE_SAVE_AS = 'pages/{slug}/index.html'
+SHOW_ARTICLE_AUTHOR = True</t>
 </tnodes>
 </leo_file>
