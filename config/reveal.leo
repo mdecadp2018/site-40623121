@@ -124,15 +124,15 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">####&lt;marquee direction="right" height="30" align="midden"scrollamount="3" behavior="alternate"&gt;&lt;font color="#F0BBFF"&gt;&lt;font face="Comic Sans MS2"&gt;2&lt;/font&gt;&lt;font color="#D1BBFF"&gt;&lt;font face="Comic Sans MS2"&gt;0&lt;/font&gt;&lt;font color="#CCCCFF"&gt;&lt;font face="Comic Sans MS2"&gt;1&lt;/font&gt;&lt;font color="#CCEEFF"&gt;&lt;font face="Comic Sans MS2"&gt;8&lt;/font&gt;&lt;font color="#AAFFEE"&gt;&lt;font face="Comic Sans MS2"&gt;F&lt;/font&gt;&lt;font color="#99FF99"&gt;&lt;font face="Comic Sans MS2"&gt;a&lt;/font&gt;&lt;font color="#EEFFBB"&gt;&lt;font face="Comic Sans MS2"&gt;l&lt;/font&gt;&lt;font color="#FFEE99"&gt;&lt;font face="Comic Sans MS2"&gt;l&lt;/font&gt;&lt;font color="#FFC8B4"&gt;&lt;font face="Comic Sans MS2"&gt;C&lt;/font&gt;&lt;font color="#FF8888"&gt;&lt;font face="Comic Sans MS2"&gt;A&lt;/font&gt;&lt;font color="#FF0000"&gt;&lt;font face="Comic Sans MS2"&gt;D&lt;/font&gt;&lt;font color="#FF44AA"&gt;&lt;font face="Comic Sans MS2"&gt;P&lt;/font&gt;&lt;/marquee&gt;
+<t tx="leo.20180827201621.10">#### &lt;marquee direction="right" height="30" align="midden"scrollamount="3" behavior="alternate"&gt;&lt;font color="#F0BBFF"&gt;&lt;font face="Lucida Console"&gt;2&lt;/font&gt;&lt;font color="#D1BBFF"&gt;&lt;font face="Lucida Console"&gt;0&lt;/font&gt;&lt;font color="#CCCCFF"&gt;&lt;font face="Lucida Console"&gt;1&lt;/font&gt;&lt;font color="#CCEEFF"&gt;&lt;font face="Lucida Console"&gt;8&lt;/font&gt;&lt;font color="#AAFFEE"&gt;&lt;font face="Lucida Console"&gt;F&lt;/font&gt;&lt;font color="#99FF99"&gt;&lt;font face="Lucida Console"&gt;a&lt;/font&gt;&lt;font color="#EEFFBB"&gt;&lt;font face="Lucida Console"&gt;l&lt;/font&gt;&lt;font color="#FFEE99"&gt;&lt;font face="Lucida Console"&gt;l&lt;/font&gt;&lt;font color="#FFC8B4"&gt;&lt;font face="Lucida Console"&gt;C&lt;/font&gt;&lt;font color="#FF8888"&gt;&lt;font face="Lucida Console"&gt;A&lt;/font&gt;&lt;font color="#FF0000"&gt;&lt;font face="Lucida Console"&gt;D&lt;/font&gt;&lt;font color="#FF44AA"&gt;&lt;font face="Lucida Console"&gt;P&lt;/font&gt;&lt;/marquee&gt;
 
-### 虎科大機械設計工程系&lt;font color="#00E0FF"&gt;&lt;font face="Comic Sans MS2"&gt;N&lt;/font&gt;&lt;font color="#24BCFF"&gt;&lt;font face="Comic Sans MS2"&gt;F&lt;/font&gt;&lt;font color="#4898FF"&gt;&lt;font face="Comic Sans MS2"&gt;U&lt;/font&gt;&lt;font color="#6C74FF"&gt;&lt;font face="Comic Sans MS2"&gt;x&lt;/font&gt;&lt;font color="#9050FF"&gt;&lt;font face="Comic Sans MS2"&gt;M&lt;/font&gt;&lt;font color="#B42CFF"&gt;&lt;font face="Comic Sans MS2"&gt;D&lt;/font&gt;&lt;font color="#C008FF"&gt;&lt;font face="Comic Sans MS2"&gt;E&lt;/font&gt;
+### 虎科大機械設計工程系&lt;font color="#00E0FF"&gt;&lt;font face="Lucida Console"&gt;N&lt;/font&gt;&lt;font color="#24BCFF"&gt;&lt;font face="Lucida Console"&gt;F&lt;/font&gt;&lt;font color="#4898FF"&gt;&lt;font face="Lucida Console"&gt;U&lt;/font&gt;&lt;font color="#6C74FF"&gt;&lt;font face="Lucida Console"&gt;x&lt;/font&gt;&lt;font color="#9050FF"&gt;&lt;font face="Lucida Console"&gt;M&lt;/font&gt;&lt;font color="#B42CFF"&gt;&lt;font face="Lucida Console"&gt;D&lt;/font&gt;&lt;font color="#C008FF"&gt;&lt;font face="Lucida Console"&gt;E&lt;/font&gt;
 
 &lt;small&gt;
-Created by [蔡朝旭](http://lab.kmol.info/)
+&lt;font color="#9955FF"&gt;&lt;font face="Impact"&gt;Created by&lt;/font&gt; [蔡朝旭](https://github.com/mdecadp2018/site-40623121)
 &lt;/small&gt;
 
-[四設計二甲 40623121 投影片](./../blog/index.html)
+[&lt;font color="#FFDD55"&gt;&lt;b&gt;40623121の網誌&lt;/b&gt;&lt;/font&gt;](./../blog/index.html)
 
 
 </t>
