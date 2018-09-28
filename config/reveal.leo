@@ -135,7 +135,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">&lt;marquee direction="right" height="30" align="midden"scrollamount="3" behavior="alternate"&gt;&lt;font color="#F0BBFF"&gt;&lt;font face="Trebuchet MS"&gt;&lt;font size="4"&gt;2&lt;/font&gt;&lt;font color="#D1BBFF"&gt;&lt;font face="Lucida Console"&gt;0&lt;/font&gt;&lt;font color="#CCCCFF"&gt;&lt;font face="Lucida Console"&gt;1&lt;/font&gt;&lt;font color="#CCEEFF"&gt;&lt;font face="Lucida Console"&gt;8&lt;/font&gt;&lt;font color="#AAFFEE"&gt;&lt;font face="Lucida Console"&gt;F&lt;/font&gt;&lt;font color="#99FF99"&gt;&lt;font face="Lucida Console"&gt;a&lt;/font&gt;&lt;font color="#EEFFBB"&gt;&lt;font face="Lucida Console"&gt;l&lt;/font&gt;&lt;font color="#FFEE99"&gt;&lt;font face="Lucida Console"&gt;l&lt;/font&gt;&lt;font color="#FFC8B4"&gt;&lt;font face="Lucida Console"&gt;C&lt;/font&gt;&lt;font color="#FF8888"&gt;&lt;font face="Lucida Console"&gt;A&lt;/font&gt;&lt;font color="#FF0000"&gt;&lt;font face="Lucida Console"&gt;D&lt;/font&gt;&lt;font color="#FF44AA"&gt;&lt;font face="Lucida Console"&gt;P&lt;/font&gt;&lt;/marquee&gt;
+<t tx="leo.20180827201621.10">&lt;marquee direction="right" height="30" align="midden"scrollamount="3" behavior="alternate"&gt;&lt;font color="#F0BBFF"&gt; &lt;font size="4"&gt;2&lt;/font&gt;&lt;font color="#D1BBFF"&gt; 0&lt;/font&gt;&lt;font color="#CCCCFF"&gt;1&lt;/font&gt;&lt;font color="#CCEEFF"&gt;8&lt;/font&gt;&lt;font color="#AAFFEE"&gt;F&lt;/font&gt;&lt;font color="#99FF99"&gt;a&lt;/font&gt;&lt;font color="#EEFFBB"&gt;l&lt;/font&gt;&lt;font color="#FFEE99"&gt;l&lt;/font&gt;&lt;font color="#FFC8B4"&gt;C&lt;/font&gt;&lt;font color="#FF8888"&gt;A&lt;/font&gt;&lt;font color="#FF0000"&gt;D&lt;/font&gt;&lt;font color="#FF44AA"&gt;P&lt;/font&gt;&lt;/marquee&gt;
 
 &lt;font size="6"&gt;虎科大機械設計工程系&lt;/font&gt;&lt;font color="#00E0FF"&gt;&lt;font face="Lucida Console"&gt;&lt;font size="6"&gt;N&lt;/font&gt;&lt;font color="#24BCFF"&gt;&lt;font face="Lucida Console"&gt;&lt;font size="6"&gt;F&lt;/font&gt;&lt;font color="#4898FF"&gt;&lt;font face="Lucida Console"&gt;&lt;font size="6"&gt;U&lt;/font&gt;&lt;font color="#6C74FF"&gt;&lt;font face="Lucida Console"&gt;&lt;font size="6"&gt;x&lt;/font&gt;&lt;font color="#9050FF"&gt;&lt;font face="Lucida Console"&gt;&lt;font size="6"&gt;M&lt;/font&gt;&lt;font color="#B42CFF"&gt;&lt;font face="Lucida Console"&gt;&lt;font size="6"&gt;D&lt;/font&gt;&lt;font color="#C008FF"&gt;&lt;font face="Lucida Console"&gt;&lt;font size="6"&gt;E&lt;/font&gt;
 
@@ -147,11 +147,10 @@ vertical: body pane on the botton</t>
 
 
 </t>
-<t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20180827201621.11">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
+
 
 
 						
