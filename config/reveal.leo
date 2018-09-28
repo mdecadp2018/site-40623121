@@ -141,7 +141,7 @@ vertical: body pane on the botton</t>
 
 &lt;small&gt;
 &lt;font color="#9955FF"&gt;&lt;font face="Impact"&gt;Created by&lt;/font&gt; [蔡朝旭](https://github.com/mdecadp2018/site-40623121)
-&lt;/small&gt;
+&lt;/small&gt; 
 
 [&lt;font color="#FFDD55"&gt;&lt;b&gt;40623121の網誌&lt;/b&gt;&lt;/font&gt;](./../blog/index.html)
 
