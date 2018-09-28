@@ -41,7 +41,7 @@
     <script type="text/template">
 <marquee direction="right" height="30" align="midden"scrollamount="3" behavior="alternate"><font color="#F0BBFF"><font face="Trebuchet MS"><font size="4">2</font><font color="#D1BBFF"><font face="Lucida Console">0</font><font color="#CCCCFF"><font face="Lucida Console">1</font><font color="#CCEEFF"><font face="Lucida Console">8</font><font color="#AAFFEE"><font face="Lucida Console">F</font><font color="#99FF99"><font face="Lucida Console">a</font><font color="#EEFFBB"><font face="Lucida Console">l</font><font color="#FFEE99"><font face="Lucida Console">l</font><font color="#FFC8B4"><font face="Lucida Console">C</font><font color="#FF8888"><font face="Lucida Console">A</font><font color="#FF0000"><font face="Lucida Console">D</font><font color="#FF44AA"><font face="Lucida Console">P</font></marquee>
 
-### 虎科大機械設計工程系<font color="#00E0FF"><font face="Lucida Console">N</font><font color="#24BCFF"><font face="Lucida Console">F</font><font color="#4898FF"><font face="Lucida Console">U</font><font color="#6C74FF"><font face="Lucida Console">x</font><font color="#9050FF"><font face="Lucida Console">M</font><font color="#B42CFF"><font face="Lucida Console">D</font><font color="#C008FF"><font face="Lucida Console">E</font>
+<font size="6">虎科大機械設計工程系</font><font color="#00E0FF"><font face="Lucida Console"><font size="6">N</font><font color="#24BCFF"><font face="Lucida Console"><font size="6">F</font><font color="#4898FF"><font face="Lucida Console"><font size="6">U</font><font color="#6C74FF"><font face="Lucida Console"><font size="6">x</font><font color="#9050FF"><font face="Lucida Console"><font size="6">M</font><font color="#B42CFF"><font face="Lucida Console"><font size="6">D</font><font color="#C008FF"><font face="Lucida Console"><font size="6">E</font>
 
 <small>
 <font color="#9955FF"><font face="Impact">Created by</font> [蔡朝旭](https://github.com/mdecadp2018/site-40623121)
@@ -57,14 +57,28 @@
 						
 <section data-markdown>
     <script type="text/template">
-# 投影片快捷鍵
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+# Week 1上課內容
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+* 準備隨身碟、耳機、筆記本
+* 將P37置入隨身碟
+* 登入Github帳號領取個人期中作業
+* 建立個人的課程網頁 40623121.github.io
+* 管理CMSimfly靜態網頁
+* 編輯 reveal.leo 簡報內容
+* 建立 pelican.leo 網誌
+    </script>
+</section>
+
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+* W1 練習影片
+
+    </script>
+</section>
 
     </script>
 </section>
@@ -75,12 +89,13 @@
 <section data-markdown>
     <script type="text/template">
 <!-- 請注意, @others 不可以內縮 -->
-# 數學符號與方程式
+# Week 2上課內容
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
+* 學會管理期中作業倉儲
+* 將分支改為 gh-pages
+* 將github預設分支改為 gh-pages
+* 建立Onshape帳號並練習
 
-$$I = \int \rho R^{2} dV$$
     </script>
 </section>
 
@@ -90,32 +105,8 @@ $$I = \int \rho R^{2} dV$$
 <section data-markdown>
     <script type="text/template">
 <!-- 請注意, @others 不可以內縮 -->
-## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
+* W2練習影片
 
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
     </script>
 </section>
 
@@ -136,6 +127,14 @@ make.start()
 						
 </section>
 
+<section data-markdown>
+    <script type="text/template">
+    </script>
+</section>
+<section data-markdown>
+    <script type="text/template">
+    </script>
+</section>
 </div>
 
 </div>
