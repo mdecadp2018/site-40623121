@@ -22,6 +22,7 @@
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20181004215815.1"><vh>newHeadline</vh></v>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>w1</vh>
@@ -135,7 +136,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">&lt;marquee direction="right" height="30" align="top"scrollamount="3" behavior="alternate"&gt;&lt;font color="#F0BBFF"&gt;&lt;font size="4"&gt;&lt;font face="Trebuchet MS"&gt;2&lt;/font&gt;&lt;font color="#D1BBFF"&gt;&lt;font size="4"&gt;&lt;font face="Trebuchet MS"&gt;0&lt;/font&gt;&lt;font color="#CCCCFF"&gt;&lt;font size="4"&gt;&lt;font face="Trebuchet MS"&gt;1&lt;/font&gt;&lt;font color="#CCEEFF"&gt;&lt;font size="4"&gt;&lt;font face="Trebuchet MS"&gt;8&lt;/font&gt;&lt;font color="#AAFFEE"&gt;&lt;font size="4"&gt;&lt;font face="Trebuchet MS"&gt;F&lt;/font&gt;&lt;font color="#99FF99"&gt;&lt;font size="4"&gt;&lt;font face="Trebuchet MS"&gt;a&lt;/font&gt;&lt;font color="#EEFFBB"&gt;&lt;font size="4"&gt;&lt;font face="Trebuchet MS"&gt;l&lt;/font&gt;&lt;font color="#FFEE99"&gt;&lt;font size="4"&gt;&lt;font face="Trebuchet MS"&gt;l&lt;/font&gt;&lt;font color="#FFC8B4"&gt;&lt;font size="4"&gt;&lt;font face="Trebuchet MS"&gt;C&lt;/font&gt;&lt;font color="#FF8888"&gt;&lt;font size="4"&gt;&lt;font face="Trebuchet MS"&gt;A&lt;/font&gt;&lt;font color="#FF0000"&gt;&lt;font size="4"&gt;&lt;font face="Trebuchet MS"&gt;D&lt;/font&gt;&lt;font color="#FF44AA"&gt;&lt;font size="4"&gt;&lt;font face="Trebuchet MS"&gt;P&lt;/font&gt;&lt;/marquee&gt;
+<t tx="leo.20180827201621.10">&lt;marquee direction="right" height="30" scrollamount="3" behavior="alternate"&gt;&lt;font color="#F0BBFF"&gt;&lt;font size="5"&gt;&lt;font face="Trebuchet MS"&gt;2&lt;/font&gt;&lt;font color="#D1BBFF"&gt;&lt;font size="5"&gt;&lt;font face="Trebuchet MS"&gt;0&lt;/font&gt;&lt;font color="#CCCCFF"&gt;&lt;font size="5"&gt;&lt;font face="Trebuchet MS"&gt;1&lt;/font&gt;&lt;font color="#CCEEFF"&gt;&lt;font size="5"&gt;&lt;font face="Trebuchet MS"&gt;8&lt;/font&gt;&lt;font color="#AAFFEE"&gt;&lt;font size="5"&gt;&lt;font face="Trebuchet MS"&gt;F&lt;/font&gt;&lt;font color="#99FF99"&gt;&lt;font size="5"&gt;&lt;font face="Trebuchet MS"&gt;a&lt;/font&gt;&lt;font color="#EEFFBB"&gt;&lt;font size="5"&gt;&lt;font face="Trebuchet MS"&gt;l&lt;/font&gt;&lt;font color="#FFEE99"&gt;&lt;font size="5"&gt;&lt;font face="Trebuchet MS"&gt;l&lt;/font&gt;&lt;font color="#FFC8B4"&gt;&lt;font size="5"&gt;&lt;font face="Trebuchet MS"&gt;C&lt;/font&gt;&lt;font color="#FF8888"&gt;&lt;font size="5"&gt;&lt;font face="Trebuchet MS"&gt;A&lt;/font&gt;&lt;font color="#FF0000"&gt;&lt;font size="5"&gt;&lt;font face="Trebuchet MS"&gt;D&lt;/font&gt;&lt;font color="#FF44AA"&gt;&lt;font size="5"&gt;&lt;font face="Trebuchet MS"&gt;P&lt;/font&gt;&lt;/marquee&gt;
 
 &lt;font size="6"&gt;虎科大機械設計工程系&lt;/font&gt;&lt;font color="#00E0FF"&gt;&lt;font face="Lucida Console"&gt;&lt;font size="6"&gt;N&lt;/font&gt;&lt;font color="#24BCFF"&gt;&lt;font face="Lucida Console"&gt;&lt;font size="6"&gt;F&lt;/font&gt;&lt;font color="#4898FF"&gt;&lt;font face="Lucida Console"&gt;&lt;font size="6"&gt;U&lt;/font&gt;&lt;font color="#6C74FF"&gt;&lt;font face="Lucida Console"&gt;&lt;font size="6"&gt;x&lt;/font&gt;&lt;font color="#9050FF"&gt;&lt;font face="Lucida Console"&gt;&lt;font size="6"&gt;M&lt;/font&gt;&lt;font color="#B42CFF"&gt;&lt;font face="Lucida Console"&gt;&lt;font size="6"&gt;D&lt;/font&gt;&lt;font color="#C008FF"&gt;&lt;font face="Lucida Console"&gt;&lt;font size="6"&gt;E&lt;/font&gt;
 
@@ -144,6 +145,8 @@ vertical: body pane on the botton</t>
 &lt;/small&gt; 
 
 [&lt;font color="#FFDD55"&gt;&lt;b&gt;40623121の網誌&lt;/b&gt;&lt;/font&gt;](./../blog/index.html)
+
+&lt;img src="https://www.google.com.tw/url?sa=i&amp;rct=j&amp;q=&amp;esrc=s&amp;source=images&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiEsMqT-ezdAhUBurwKHU31ClsQjRx6BAgBEAU&amp;url=https%3A%2F%2Fweheartit.com%2Fentry%2F306304469&amp;psig=AOvVaw1kuYTqgjJ4arPe7pCgublx&amp;ust=1538747988885403"" width="250" height="250"&gt;
 
 
 </t>
@@ -160,7 +163,9 @@ vertical: body pane on the botton</t>
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -182,7 +187,9 @@ vertical: body pane on the botton</t>
 * 學會管理期中作業倉儲
 * 將分支改為 gh-pages
 * 將github預設分支改為 gh-pages
-* 建立Onshape帳號並練習</t>
+* 建立Onshape帳號並練習
+
+</t>
 <t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -194,7 +201,9 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20180827201621.17">* W2練習影片</t>
+<t tx="leo.20180827201621.17">* W2練習影片
+
+</t>
 <t tx="leo.20180827201621.18">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -323,7 +332,9 @@ vertical: body pane on the botton</t>
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20180928103346.1"># Week 1上課內容
 
 * 準備隨身碟、耳機、筆記本
@@ -334,6 +345,9 @@ vertical: body pane on the botton</t>
 * 編輯 reveal.leo 簡報內容
 * 建立 pelican.leo 網誌
 </t>
-<t tx="leo.20180928103411.1">* W1 練習影片</t>
+<t tx="leo.20180928103411.1">* W1 練習影片
+
+</t>
+<t tx="leo.20181004215815.1"></t>
 </tnodes>
 </leo_file>
