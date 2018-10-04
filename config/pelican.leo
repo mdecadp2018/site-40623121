@@ -107,15 +107,15 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180423103639.1"></t>
 <t tx="leo.20180423103656.1">@language md
 ---
-Title: Week 1 網誌
+Title: 2018 Fall 分組網誌-Week1
 Date: 2018-09-14 
 Category: Misc
-Tags: 2018Fall
-Slug: 2018-Fall-Project-week1
-Author: NFUMDE
+Tags: 2018Fall-W1
+Slug: 2018-Fall-Project-Blog-w1
+Author: 40623121
 ---
 
-2018 Fall 開始將網際內容管理、投影片與網誌進行整合.
+第一週
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
@@ -146,15 +146,15 @@ C/C++、Python、Lua 或 Javascript?
 </t>
 <t tx="leo.20181004220447.1">@language md
 ---
-Title: Week 3 網誌
+Title: 2018 Fall 分組網誌-Week3
 Date: 2018-09-28
 Category: Misc
-Tags: 2018Fall
-Slug: 2018-Fall-Project-week3
-Author: NFUMDE
+Tags: 2018Fall-W3
+Slug: 2018-Fall-Project-Blog-w3
+Author: 40623121
 ---
 
-week 3
+第三週
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
@@ -183,15 +183,15 @@ C/C++、Python、Lua 或 Javascript?
 </t>
 <t tx="leo.20181004220450.1">@language md
 ---
-Title: Week 2 網誌
+Title: 2018 Fall 分組網誌-Week2
 Date: 2018-09-21 
 Category: Misc
-Tags: 2018Fall
-Slug: 2018-Fall-Project-week2
-Author: NFUMDE
+Tags: 2018Fall-W2
+Slug: 2018-Fall-Project-Blog-w2
+Author: 40623121
 ---
 
-week 2
+第二週
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
