@@ -11,3 +11,15 @@ Author: 40623121
 
 <!-- PELICAN_END_SUMMARY -->
 
+學會管理期中作業倉儲
+
+將分支改為 gh-pages
+
+將github預設分支改為 gh-pages
+
+建立Onshape帳號並練習
+
+將靜態 html 檔案移到 blog 子目錄
+
+
+
