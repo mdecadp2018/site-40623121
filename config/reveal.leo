@@ -21,10 +21,10 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>w1</vh>
+<v t="leo.20180827201621.11"><vh>w1</vh>
 <v t="leo.20180827201621.12" a="E"><vh>w1上課內容</vh>
 <v t="leo.20180928103346.1"><vh>newHeadline</vh></v>
 </v>
@@ -32,7 +32,7 @@
 <v t="leo.20180928103411.1"><vh>newHeadline</vh></v>
 </v>
 </v>
-<v t="leo.20180827201621.13" a="E"><vh>w2</vh>
+<v t="leo.20180827201621.13"><vh>w2</vh>
 <v t="leo.20180827201621.14" a="E"><vh>w2上課內容</vh>
 <v t="leo.20180827201621.15"><vh>w2上課內容</vh></v>
 </v>
@@ -44,15 +44,28 @@
 </v>
 </v>
 <v t="leo.20180928103119.1" a="E"><vh>w3</vh>
-<v t="leo.20181005002924.1" a="E"><vh>w3上課內容 </vh>
+<v t="leo.20181005002924.1" a="E"><vh>w3上課內容</vh>
 <v t="leo.20181005003034.1"><vh>w3上課內容</vh></v>
 </v>
 <v t="leo.20181005002910.1" a="E"><vh>w3影片</vh>
 <v t="leo.20181005003131.1"><vh>w3影片</vh></v>
 </v>
 </v>
-<v t="leo.20180928103122.1" a="E"><vh>newHeadline</vh>
-<v t="leo.20180928103131.1"><vh>newHeadline</vh></v>
+<v t="leo.20181109070614.1" a="E"><vh>w4</vh>
+<v t="leo.20181109070648.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20181109070651.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20181109070636.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20181109070653.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20181109070827.1" a="E"><vh>w6</vh>
+<v t="leo.20181109070831.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20181109070834.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20181109070829.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20181109070832.1"><vh>newHeadline</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -317,15 +330,6 @@ vertical: body pane on the botton</t>
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20180928103122.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20180928103131.1">
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
 <t tx="leo.20180928103323.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -353,19 +357,90 @@ vertical: body pane on the botton</t>
 @others
     &lt;/script&gt;
 &lt;/section&gt;
-				</t>
+				
+
+</t>
 <t tx="leo.20181005002924.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
-				</t>
-<t tx="leo.20181005003034.1"># Week 3上課內容
+				
 
 </t>
+<t tx="leo.20181005003034.1"># Week 3上課內容
+
+* Onshape 與一般的繪圖軟體很像 ，能夠在雲端上傳遞給其他人看，並可以在上面繪圖，當沒有繪圖軟體像是Inventor Solidworks 可以使用 ，也可以觀看別人的圖檔。</t>
 <t tx="leo.20181005003131.1">* W3練習影片
 
 </t>
+<t tx="leo.20181109070614.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+				
+
+</t>
+<t tx="leo.20181109070636.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109070648.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109070651.1"># W4上課內容
+
+* Onshape 課程使用說明及利用手邊的英譯字典來查詢部會的單字並記錄在Notebook上
+* 解決Cmsimfly 的錯誤
+* 維護網誌必須切記 pelican.leo 內建立每周內容必須注意 slug 的名稱不得與其他周的 slug 一樣,否則系統無法得知是要使用哪個 slug 的內容
+
+ 
+ </t>
+<t tx="leo.20181109070653.1">* W4練習影片
+
+</t>
+<t tx="leo.20181109070827.1"></t>
+<t tx="leo.20181109070829.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109070831.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109070832.1">* W6練習影片
+
+</t>
+<t tx="leo.20181109070834.1"># W6上課內容
+
+*  檢查每周是否更新自己的網誌 網站 投影片
+
+* 倉儲要定時更新
+
+* 安排人事時地物等關鍵內容
+
+* 如何更新CMSimfly
+
+* 利用lab-booking-cdlab說明管理內容流程</t>
 </tnodes>
 </leo_file>

@@ -72,10 +72,17 @@
 <v t="leo.20180423103656.1"><vh>@edit week1.md</vh></v>
 <v t="leo.20181004220450.1"><vh>@edit week2.md</vh></v>
 <v t="leo.20181004220447.1"><vh>@edit week3.md</vh></v>
+<<<<<<< HEAD
+<v t="leo.20181026101227.1"><vh>@edit week4.md</vh></v>
+<v t="leo.20181026101230.1"><vh>@edit week5.md</vh></v>
+<v t="leo.20181026101231.1"><vh>@edit week6.md</vh></v>
+<v t="leo.20181026101233.1"><vh>@edit week7.md</vh></v>
+=======
 <v t="leo.20181026104410.1"><vh>@edit week4.md</vh></v>
 <v t="leo.20181026104410.2"><vh>@edit week5.md</vh></v>
 <v t="leo.20181026104408.1"><vh>@edit week6.md</vh></v>
 <v t="leo.20181026104406.1"><vh>@edit week7.md</vh></v>
+>>>>>>> 12c9db42117259c1250a8d22588e8dfb353b7def
 </v>
 </v>
 </v>
